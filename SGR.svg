@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1178.93 595.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c0b7ad;
+        stroke: #756e70;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-11 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-2 {
+        fill: #d4e6f3;
+        opacity: .7;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #f4eadf;
+      }
+
+      .cls-17 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-18 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #f6e18f;
+      }
+
+      .cls-3, .cls-4, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-3, .cls-6, .cls-7, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-4 {
+        stroke: #c72e31;
+      }
+
+      .cls-4, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-19 {
+        fill: #f1daa1;
+      }
+
+      .cls-20 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-5, .cls-22 {
+        fill: #e5bcb8;
+        opacity: .3;
+      }
+
+      .cls-12, .cls-14 {
+        font-size: 22px;
+      }
+
+      .cls-13, .cls-23 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-24, .cls-25 {
+        font-size: 24px;
+      }
+
+      .cls-24, .cls-26 {
+        font-family: TimesNewRomanPS-BoldMT, 'Times New Roman';
+        font-weight: 700;
+      }
+
+      .cls-27 {
+        fill: #006837;
+      }
+
+      .cls-8 {
+        stroke: #006837;
+      }
+
+      .cls-14 {
+        fill: #300506;
+      }
+
+      .cls-15 {
+        font-size: 21px;
+      }
+
+      .cls-28 {
+        fill: url(#_未命名的渐变_59-2);
+      }
+
+      .cls-29 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-30 {
+        fill: #c72e31;
+      }
+
+      .cls-31 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-9 {
+        stroke-dasharray: 4.06 3.04;
+      }
+
+      .cls-32 {
+        fill: url(#_未命名的渐变_59);
+      }
+
+      .cls-10 {
+        fill: #938c8e;
+        stroke: #938c8e;
+      }
+
+      .cls-33 {
+        fill: #603813;
+        font-family: ComicSansMS, 'Comic Sans MS';
+        font-size: 18px;
+      }
+
+      .cls-34 {
+        fill: #754c24;
+      }
+    </style>
+    <radialGradient id="_未命名的渐变_59" data-name="未命名的渐变 59" cx="589.46" cy="455.7" fx="589.46" fy="455.7" r="415.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fefcfb"/>
+      <stop offset="1" stop-color="#f4eadf" stop-opacity=".8"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_59-2" data-name="未命名的渐变 59" cx="271" cy="215.06" fx="271" fy="215.06" r="52.12" xlink:href="#_未命名的渐变_59"/>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <rect class="cls-18" width="1178.93" height="595.4"/>
+    <line class="cls-10" x1="1178.93" y1="1.63" y2="1.63"/>
+    <line class="cls-10" x1="1178.93" y1="62.41" y2="62.41"/>
+    <line class="cls-10" x1="1178.93" y1="314.8" y2="314.8"/>
+    <rect class="cls-5" x="16.1" y="69.78" width="1146.73" height="50.93" rx="6" ry="6"/>
+    <text class="cls-24" transform="translate(34.95 103.21)"><tspan x="0" y="0">Di</tspan><tspan class="cls-23" x="24" y="0">r</tspan><tspan x="34.22" y="0">ect</tspan><tspan class="cls-20" x="63.52" y="0"> </tspan><tspan x="68.19" y="0">Answering</tspan></text>
+    <line class="cls-1" x1="262.69" y1="95.24" x2="227.72" y2="95.24"/>
+    <text class="cls-15" transform="translate(279.25 101.97)"><tspan x="0" y="0">The iPhone came first.</tspan><tspan class="cls-20" x="190.11" y="0"> </tspan><tspan x="194.2" y="0">Answer:</tspan><tspan class="cls-31" x="265.35" y="0"> </tspan><tspan class="cls-17" x="269.82" y="0">Y</tspan><tspan x="282.88" y="0">es.</tspan></text>
+    <rect class="cls-22" x="16.81" y="125.9" width="1146.73" height="179.5" rx="8" ry="8"/>
+    <text class="cls-24" transform="translate(34.95 154.7)"><tspan x="0" y="0">Linea</tspan><tspan class="cls-23" x="58.68" y="0">r</tspan><tspan x="68.89" y="0" xml:space="preserve"> Reasoning</tspan></text>
+    <line class="cls-1" x1="262.69" y1="147.66" x2="227.72" y2="147.66"/>
+    <text class="cls-15" transform="translate(279.25 154.55)"><tspan x="0" y="0">Step 1:</tspan><tspan class="cls-23" x="58.92" y="0"> </tspan><tspan x="63.79" y="0">The first Harry Potter movie,</tspan><tspan class="cls-23" x="308.14" y="0"> </tspan><tspan x="313.01" y="0">The Sorcerer&apos;s Stone, came out when the books were popula</tspan><tspan class="cls-29" x="819.47" y="0">r</tspan><tspan x="825.62" y="0">, </tspan><tspan x="0" y="25.2">likely in the late 1990s.</tspan><tspan x="0" y="50.4">Step 2:</tspan><tspan class="cls-23" x="58.92" y="50.4"> </tspan><tspan x="63.79" y="50.4">The iPhone was announced by Steve Jobs around 2007.</tspan><tspan x="0" y="75.6">Step 3: Compare the dates: the late 1990s is before 2007.</tspan><tspan x="0" y="100.8">Step 4:</tspan><tspan class="cls-23" x="58.92" y="100.8"> </tspan><tspan x="63.79" y="100.8">Therefore, the iPhone was not released first.</tspan><tspan x="0" y="126">Answer: No</tspan></text>
+    <rect class="cls-32" x="16.1" y="324.54" width="1146.73" height="262.32" rx="8" ry="8"/>
+    <circle class="cls-3" cx="115.94" cy="452.59" r="15"/>
+    <text class="cls-12" transform="translate(62.49 497.35)"><tspan x="0" y="0">Identify key </tspan><tspan x="-13.44" y="26.4">timeline events</tspan></text>
+    <text class="cls-12" transform="translate(232.25 497.35)"><tspan x="0" y="0">Split</tspan><tspan class="cls-23" x="41.57" y="0"> </tspan><tspan class="cls-21" x="46.67" y="0">T</tspan><tspan x="58.58" y="0">ask: </tspan><tspan x="-14.09" y="26.4">Release</tspan><tspan class="cls-31" x="54.32" y="26.4"> </tspan><tspan class="cls-17" x="59" y="26.4">Y</tspan><tspan x="72.69" y="26.4">ears</tspan></text>
+    <text class="cls-12" transform="translate(374.2 359.24)"><tspan x="0" y="0">The release date of </tspan><tspan x="16.15" y="26.4">the first iPhone</tspan></text>
+    <text class="cls-12" transform="translate(374.2 541.07)"><tspan x="0" y="0">The release date of </tspan><tspan x="2.81" y="26.4">the first H</tspan><tspan class="cls-31" x="92.01" y="26.4">P</tspan><tspan x="103.43" y="26.4" xml:space="preserve"> movie</tspan></text>
+    <text class="cls-12" transform="translate(612.43 359.24)"><tspan x="0" y="0">Released on </tspan><tspan x="-7.96" y="26.4">June 29, 2007</tspan></text>
+    <text class="cls-12" transform="translate(612.43 541.07)"><tspan x="0" y="0">Released on </tspan><tspan x="-34.22" y="26.4">November 16, 2001</tspan></text>
+    <text class="cls-12" transform="translate(787.36 497.35)"><tspan x="0" y="0">Comparison: </tspan><tspan x="-2.45" y="26.4">2007 vs 2001</tspan></text>
+    <circle class="cls-3" cx="279.25" cy="452.59" r="15"/>
+    <g>
+      <line class="cls-6" x1="130.94" y1="452.59" x2="257.01" y2="452.59"/>
+      <path d="M264.25,452.59c-3.41,1.26-7.64,3.42-10.26,5.71l2.06-5.71-2.06-5.71c2.62,2.29,6.85,4.44,10.26,5.71Z"/>
+    </g>
+    <circle class="cls-3" cx="457.57" cy="412.62" r="15"/>
+    <circle class="cls-3" cx="457.57" cy="499.41" r="15"/>
+    <g>
+      <line class="cls-6" x1="293.95" y1="449.56" x2="435.53" y2="414.94"/>
+      <path d="M442.57,413.22c-3.01,2.04-6.6,5.14-8.61,7.98l.65-6.03-3.36-5.05c3.09,1.6,7.71,2.69,11.32,3.11Z"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="294.25" y1="457.22" x2="435.63" y2="499.34"/>
+      <path d="M442.57,501.41c-3.63.24-8.3,1.1-11.46,2.54l3.61-4.88-.35-6.06c1.86,2.94,5.3,6.21,8.2,8.4Z"/>
+    </g>
+    <circle class="cls-3" cx="665.88" cy="412.62" r="15"/>
+    <circle class="cls-3" cx="665.88" cy="499.41" r="15"/>
+    <g>
+      <line class="cls-6" x1="472.56" y1="412.65" x2="643.64" y2="412.65"/>
+      <path d="M650.88,412.65c-3.41,1.26-7.64,3.42-10.26,5.71l2.06-5.71-2.06-5.71c2.62,2.29,6.85,4.44,10.26,5.71Z"/>
+    </g>
+    <circle class="cls-3" cx="844.19" cy="452.59" r="15"/>
+    <circle class="cls-3" cx="1007.51" cy="452.59" r="15"/>
+    <g>
+      <line class="cls-6" x1="680.88" y1="412.62" x2="821.6" y2="447.5"/>
+      <path d="M828.63,449.24c-3.61.41-8.23,1.48-11.33,3.07l3.38-5.04-.63-6.03c1.99,2.85,5.58,5.96,8.58,8.01Z"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="680.88" y1="500.19" x2="822.25" y2="458.69"/>
+      <path d="M829.19,456.65c-2.91,2.17-6.36,5.43-8.23,8.37l.37-6.06-3.59-4.89c3.16,1.45,7.82,2.33,11.45,2.59Z"/>
+    </g>
+    <text class="cls-12" transform="translate(957.09 493.45)"><tspan x="0" y="0">iPhone was </tspan><tspan x="27.21" y="26.4">Later</tspan></text>
+    <g>
+      <line class="cls-6" x1="859.2" y1="452.58" x2="985.27" y2="452.59"/>
+      <path d="M992.52,452.59c-3.41,1.26-7.64,3.42-10.26,5.71l2.06-5.71-2.06-5.71c2.62,2.29,6.85,4.44,10.26,5.71Z"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="1022.5" y1="452.59" x2="1106.34" y2="452.59"/>
+      <path d="M1113.58,452.59c-3.41,1.26-7.64,3.42-10.26,5.71l2.06-5.71-2.06-5.71c2.62,2.29,6.85,4.44,10.26,5.71Z"/>
+    </g>
+    <g>
+      <rect class="cls-19" x="941.8" y="541.15" width="201.95" height="35.22" rx="5" ry="5"/>
+      <text class="cls-14" transform="translate(964.56 566)"><tspan x="0" y="0">Final</tspan><tspan class="cls-20" x="45.22" y="0"> </tspan><tspan x="49.51" y="0">Answer: No</tspan></text>
+    </g>
+    <g>
+      <line class="cls-6" x1="472.56" y1="499.41" x2="643.64" y2="499.41"/>
+      <path d="M650.88,499.41c-3.41,1.26-7.64,3.42-10.26,5.71l2.06-5.71-2.06-5.71c2.62,2.29,6.85,4.44,10.26,5.71Z"/>
+    </g>
+    <line class="cls-4" x1="595.17" y1="108.87" x2="463.04" y2="108.87"/>
+    <path class="cls-30" d="M638.57,92.84l-7.2-7.2c-.66-.66-1.73-.67-2.4,0,0,0,0,0,0,0-.66.66-.66,1.73,0,2.39,0,0,0,0,0,0l7.2,7.2-7.2,7.2c-.66.66-.67,1.73,0,2.39,0,0,0,0,0,0,.66.66,1.73.66,2.39,0,0,0,0,0,0,0l7.2-7.2,7.2,7.2c.66.66,1.73.67,2.4,0,0,0,0,0,0,0,.66-.66.67-1.73,0-2.39,0,0,0,0,0,0l-7.2-7.2,7.2-7.2c.66-.66.67-1.73,0-2.39,0,0,0,0,0,0-.66-.66-1.73-.66-2.4,0,0,0,0,0,0,0l-7.2,7.2Z"/>
+    <line class="cls-4" x1="488.79" y1="185.35" x2="278.95" y2="185.35"/>
+    <path class="cls-27" d="M395.55,282.37c-.49,0-.95-.19-1.3-.53l-7.73-7.61c-.74-.72-.74-1.9-.02-2.61.72-.72,1.9-.74,2.61-.02l6.04,5.94,9.78-14.02c.51-.88,1.64-1.18,2.54-.65.88.51,1.18,1.64.65,2.54l-10.99,16.05c-.3.49-.79.81-1.36.9h-.23Z"/>
+    <path class="cls-30" d="M506.32,170.49l-7.2-7.2c-.66-.66-1.73-.67-2.4,0,0,0,0,0,0,0-.66.66-.66,1.73,0,2.39,0,0,0,0,0,0l7.2,7.2-7.2,7.2c-.66.66-.67,1.73,0,2.39,0,0,0,0,0,0,.66.66,1.73.66,2.39,0,0,0,0,0,0,0l7.2-7.2,7.2,7.2c.66.66,1.73.67,2.4,0,0,0,0,0,0,0,.66-.66.67-1.73,0-2.39,0,0,0,0,0,0l-7.2-7.2,7.2-7.2c.66-.66.67-1.73,0-2.39,0,0,0,0,0,0-.66-.66-1.73-.66-2.4,0,0,0,0,0,0,0l-7.2,7.2Z"/>
+    <text class="cls-33" transform="translate(653.8 102.07)"><tspan x="0" y="0">Incorrect answer</tspan></text>
+    <text class="cls-33" transform="translate(840.33 262.45)"><tspan x="0" y="0">Correct Answer with Flawed </tspan><tspan x="0" y="21.6">Reasoning (Inconsistent)</tspan></text>
+    <path class="cls-34" d="M1114.81,278.09l-11.56-18.58c-.82-1.47-1.8-2.18-3.05-2.18s-2.29.71-3.06,2.12l-11.55,18.63c-.82,1.42-.87,2.67-.22,3.76.65,1.09,1.8,1.63,3.38,1.63h22.9c1.58,0,2.72-.54,3.38-1.63.6-1.09.54-2.34-.22-3.76ZM1100.18,281.3c-1.23,0-2.18-1.02-2.18-2.18,0-1.23,1.02-2.18,2.18-2.18,1.23,0,2.17,1.02,2.17,2.18.07,1.16-.94,2.18-2.18,2.18ZM1101.74,273.09c-.05.86-.78,1.52-1.64,1.48-.8-.04-1.43-.68-1.48-1.48l-.62-7.27c0-1.09,1-1.95,2.18-1.95s2.18.86,2.18,1.95l-.62,7.27Z"/>
+    <rect class="cls-2" x="16.1" y="8.57" width="1145.18" height="47.48" rx="5" ry="5"/>
+    <text class="cls-25" transform="translate(135.29 39.8)"><tspan class="cls-26" x="0" y="0">Question</tspan><tspan class="cls-16" x="92.02" y="0">: “</tspan><tspan class="cls-13" x="115.34" y="0"> </tspan><tspan class="cls-11" x="120.9" y="0">W</tspan><tspan class="cls-16" x="141.63" y="0">as the first iPhone released before the first &apos;Harry Potter&apos; movie was released ? ”</tspan></text>
+    <text class="cls-24" transform="translate(34.95 352.2)"><tspan x="0" y="0">Self-graph Reasoning</tspan></text>
+    <line class="cls-8" x1="411.08" y1="286.81" x2="278.95" y2="286.81"/>
+    <line class="cls-4" x1="1115.43" y1="161.59" x2="595.17" y2="161.59"/>
+    <g>
+      <line class="cls-28" x1="271" y1="141.34" x2="271" y2="288.77"/>
+      <g>
+        <line class="cls-7" x1="271" y1="141.34" x2="271" y2="143.34"/>
+        <line class="cls-9" x1="271" y1="146.39" x2="271" y2="279.82"/>
+        <line class="cls-7" x1="271" y1="281.34" x2="271" y2="283.34"/>
+        <path d="M271,288.77c-.95-2.56-2.57-5.73-4.28-7.69l4.28,1.55,4.28-1.55c-1.71,1.97-3.33,5.14-4.28,7.69Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
