@@ -25,8 +25,7 @@ if HF_TOKEN is None:
 model_path = {
     "llama_3b": "meta-llama/Llama-3.2-3B-Instruct",
     "llama_8b": "meta-llama/Meta-Llama-3-8B-Instruct",
-    "llama_70b": "meta-llama/Llama-3.3-70B-Instruct",
-    "qwen2.5_7b": "Qwen/Qwen2.5-7B"
+    "llama_70b": "meta-llama/Llama-3.3-70B-Instruct"
 }
 
 

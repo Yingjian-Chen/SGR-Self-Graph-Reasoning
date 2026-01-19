@@ -26,9 +26,6 @@ model_path = {
     "llama_3b": "meta-llama/Llama-3.2-3B-Instruct",
     "llama_8b": "meta-llama/Meta-Llama-3-8B-Instruct",
     "llama_70b": "meta-llama/Llama-3.3-70B-Instruct",
-    "qwen2.5_7b": "Qwen/Qwen2.5-7B",
-    "qwen2.5_72b": "Qwen/Qwen2.5-72B-Instruct",
-    "qwen3_8b": "Qwen/Qwen3-8B"
 }
 
 
