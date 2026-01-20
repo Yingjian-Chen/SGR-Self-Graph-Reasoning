@@ -36,6 +36,14 @@ Each data entry includes:
 - `Reasoning Path`: the graph-structured reasoning process generated for the question
 - `Label`: the ground-truth answer
 
+## Environment Setup
+
+1. Install PyTorch according to your system and CUDA version.
+2. Install other dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ## Training
 
 To start training, simply run:
