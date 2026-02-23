@@ -33,8 +33,12 @@ def get_prompt(question: str) -> str:
     6. Keep <reasoning> concise—just enough to justify your answer, do not overexpand.
     """
 
-    # prompt = f"""
-    # Question: {question}
+    # prompt = f"""Question:{question}
+    # Provide the graph-style step-by-step reasoning and then the final answer. 
+    # Format your response as:
+    # <reasoning> graph-style reasoning </reasoning>
+    # <answer> only your final answer </answer>
+    # """
 
     # Instruction:
     # 1. Solve the question by organizing your reasoning as a graph.
