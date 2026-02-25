@@ -17,28 +17,28 @@ def get_prompt(question: str) -> str:
     # <answer> only your final answer (letter or number) </answer>
     # """
 
-    prompt = f"""
-    Question: {question}
-    Instruction:
-    1. Carefully think step by step to determine the correct answer.
-    2. Show your graph-style step-by-step reasoning in a concise <reasoning> block.
-    3. After reasoning, always provide the final answer in <answer> tag.
-    4. Format strictly as:
-    <reasoning>
-    <step>node A -> leads to -> node B</step>
-    ...
-    </reasoning>
-    <answer>...</answer>
-    5. Do NOT generate anything outside <reasoning> and <answer>.
-    6. Keep <reasoning> concise—just enough to justify your answer, do not overexpand.
-    """
-
-    # prompt = f"""Question:{question}
-    # Provide the graph-style step-by-step reasoning and then the final answer. 
-    # Format your response as:
-    # <reasoning> graph-style reasoning </reasoning>
-    # <answer> only your final answer </answer>
+    # prompt = f"""
+    # Question: {question}
+    # Instruction:
+    # 1. Carefully think step by step to determine the correct answer.
+    # 2. Show your graph-style step-by-step reasoning in a concise <reasoning> block.
+    # 3. After reasoning, always provide the final answer in <answer> tag.
+    # 4. Format strictly as:
+    # <reasoning>
+    # <step>node A -> leads to -> node B</step>
+    # ...
+    # </reasoning>
+    # <answer>...</answer>
+    # 5. Do NOT generate anything outside <reasoning> and <answer>.
+    # 6. Keep <reasoning> concise—just enough to justify your answer, do not overexpand.
     # """
+
+    prompt = f"""Question:{question}
+    Provide the graph-style step-by-step reasoning and then the final answer. 
+    Format your response as:
+    <reasoning> graph-style reasoning </reasoning>
+    <answer> only your final answer </answer>
+    """
 
     # Instruction:
     # 1. Solve the question by organizing your reasoning as a graph.
