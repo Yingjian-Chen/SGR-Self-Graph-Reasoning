@@ -16,49 +16,23 @@ def get_prompt(question: str) -> str:
     # Format your response as:
     # <answer> only your final answer (letter or number) </answer>
     # """
-
-    # prompt = f"""
-    # Question: {question}
-    # Instruction:
-    # 1. Carefully think step by step to determine the correct answer.
-    # 2. Show your graph-style step-by-step reasoning in a concise <reasoning> block.
-    # 3. After reasoning, always provide the final answer in <answer> tag.
-    # 4. Format strictly as:
-    # <reasoning>
-    # <step>node A -> leads to -> node B</step>
-    # ...
-    # </reasoning>
-    # <answer>...</answer>
-    # 5. Do NOT generate anything outside <reasoning> and <answer>.
-    # 6. Keep <reasoning> concise—just enough to justify your answer, do not overexpand.
-    # """
-
-    prompt = f"""Question:{question}
-    Provide the graph-style step-by-step reasoning and then the final answer. 
-    Format your response as:
-    <reasoning> graph-style reasoning </reasoning>
-    <answer> only your final answer </answer>
-    """
-
-    # Instruction:
-    # 1. Solve the question by organizing your reasoning as a graph.
-    # 2. Each step should represent an atomic fact or inference.
-    # 3. Multiple previous steps may jointly support a later step.
-    # 4. Show your reasoning in a <reasoning> block using the format:
-    # <reasoning>
-    #     <step>node1 -> node2</step>
-    #     <step>node2 -> node3</step>
-    #     <step>node2 -> node4</step>
-    #     ...
-    # </reasoning>
-    # 5. After reasoning, provide the final answer in <answer>.
-    # 6. Do not output anything outside <reasoning> and <answer>.
-    # 7. Keep the reasoning concise.
-    # """
-
-    
-    return prompt
-
+ 
+    # return prompt
+    return (
+        f"Question: {str(question).strip()}\n"
+        "Instruction:\n"
+        "1. Carefully think step by step to determine the correct answer.\n"
+        "2. Show your graph reasoning in a <reasoning> block.\n"
+        "3. Each <step> must be one edge: source node -> leads to -> target node.\n"
+        "4. After reasoning, always provide the final answer in <answer> tag.\n"
+        "5. Format strictly as:\n"
+        "<reasoning>\n"
+        "<step>node A -> leads to -> node B</step>\n"
+        "...\n"
+        "</reasoning>\n"
+        "<answer>...</answer>\n"
+        "5. Do NOT generate anything outside <reasoning> and <answer>.\n"
+    )
 
 def get_dataset(dataset_name):
     if dataset_name == 'logiqa':
